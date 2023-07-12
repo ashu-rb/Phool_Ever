@@ -1,6 +1,6 @@
-## Phool_Ever 
-# Runner-Up in Tech Milenge'21 Ideathon by SRCC,DU
-# FRAGRENCE FOREVER-FLORAL WASTE RECYCLING IN INDIA
+# Phool_Ever 
+## Ranked 2nd in Tech Milenge'21 Ideathon by SRCC,DU
+## FRAGRENCE FOREVER-FLORAL WASTE RECYCLING IN INDIA
 In this,a complete working website that inspires others towards Floral waste in India,with Forntend in HTML,CSS,JS &amp; Backend in PHP Database MYSQL.We will see the best and efficient floral wastemanagement in india where one can order/view recycled products.
 One of the major issue of developing India is that is poor disposal system in India,here we look on the process behind Floral Waste Management in India,how these recycled Products sold in market through my website.
 ![Screenshot (253)](https://user-images.githubusercontent.com/78752052/128878910-1c4b50bf-7c1e-4da5-82fd-67faf3090c5b.png)
